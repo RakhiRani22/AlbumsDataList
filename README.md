@@ -1,7 +1,4 @@
 # AlbumsDataList
-Displays the albums data sorted with the titles with orientation support
-
-# AlbumsDataList
 Displays the albums data sorted with the titles
 
 - Application should have screen which displays albums list sorted by
