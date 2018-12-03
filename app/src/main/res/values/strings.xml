@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Album Collection</string>
+    <string name="refresh_data">Refresh Data</string>
+    <string name="error_msg">"Unable to fetch the data. \n\nPlease check the internet connection."</string>
+    <string name="ok">OK</string>
+    <string name="alert">Alert!</string>
+</resources>
